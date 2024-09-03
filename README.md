@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
+  👋&nbsp; Hi there!🚀<br/>
   It will be updated. Please wait a little bit.<br/>
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to design every beautiful things. ✨ <br/><br/>
